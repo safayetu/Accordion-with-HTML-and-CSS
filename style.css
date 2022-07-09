@@ -92,6 +92,7 @@ body {
   font-size: 8em;
   justify-content: flex-end;
   padding: 20px;
+  margin:0;
 }
 
 .container .tab:nth-child(2) label h2 {

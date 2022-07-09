@@ -84,10 +84,10 @@ body {
 
 .container .tab input:checked ~ label h2 {
   position: absolute;
-  top: -0.1em;
-  left: -0.1em;
-  width: 102%;
-  height: 102.02%;
+  top:0;
+  left:0;
+  width: 100%;
+  height: 100%;
   color: rgba(255, 255, 255, 0.2);
   font-size: 8em;
   justify-content: flex-end;

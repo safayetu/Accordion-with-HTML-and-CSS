@@ -123,7 +123,7 @@ body {
   max-height: 100vh;
 }
 
-.container .tab .content p {
+.container .tab .content {
   position: relative;
   padding: 10px 0;
   color: var(--clr-font);
@@ -138,6 +138,6 @@ body {
   box-shadow: 0 5px 15px var(--clr-blur);
 }
 
-.container .tab input:checked ~ .content p {
+.container .tab input:checked ~ .content {
   color: #fff;
 }
